@@ -51,7 +51,7 @@ sudo apt install git python3 python3-pip -y
 
 ### 3. Clone the Repository
 ```bash
-git clone https://github.com/wanzxploit/DoS
+git clone https://github.com/Kaizzzo1/DoS.git
 cd DoS
 ```
 
