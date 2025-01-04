@@ -1,13 +1,6 @@
 
 # DoS Testing Framework
 
-![Banner](banner.png)
-
-![GitHub stars](https://img.shields.io/github/stars/wanzxploit/DoS?style=social)
-![Version](https://img.shields.io/badge/version-1.0(Beta)-brightgreen)
-![Python](https://img.shields.io/badge/python-3.7+-blue)
-![Platform](https://img.shields.io/badge/platform-linux%20%7C%20termux-lightgrey)
-
 ## About the Project
 
 **DoS (Denial of Service)** is a framework designed for educational purposes to simulate a single-machine attack on a target's server. This tool sends continuous HTTP requests to overload the server's resources, potentially rendering it unresponsive. It is inspired by the concept of **DDoS (Distributed Denial of Service)** but operates with a single device.  
